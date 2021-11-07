@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<a href="https://blog.naver.com/proveprove" target="_blank"><img src="https://img.shields.io/badge/Ren'Py-#FF7F7F?style=flat-square&logo=[Ren'Py]&logoColor=white"/></a>
-<!--
-**probablymayb/probablymayb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+https://img.shields.io/badge/-Python-000000?style=flat&logo=Python
 https://img.shields.io/badge/-Ren'Py-#FF7F7F?style=flat&logo=Ren'Py
 https://img.shields.io/badge/-Unity-#000000?style=flat&logo=Unity
 
