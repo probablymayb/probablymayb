@@ -1,10 +1,10 @@
-### Hi there 👋
+༼ つ ◕_◕ ༽つ
 
-https://img.shields.io/badge/-Python-000000?style=flat&logo=Python
+<img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=Python&logoColor=white"/></a>
 
-https://img.shields.io/badge/-Ren'Py-#FF7F7F?style=flat&logo=Ren'Py
+<img src="https://img.shields.io/badge/-Ren'Py-#FF7F7F?style=flat&logo=Ren'Py&logoColor=white"/></a>
 
-https://img.shields.io/badge/-Unity-#000000?style=flat&logo=Unity
+<img src="https://img.shields.io/badge/-Unity-#000000?style=flat&logo=Unity&logoColor=white"/></a>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
