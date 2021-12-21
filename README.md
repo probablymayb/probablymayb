@@ -2,7 +2,7 @@
 
 ⚓대한민국 해군 복무 중 (~22.12.4)
 
-📝
+하나씩 배워가는 중📝
 
 
 <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white"/></a>
